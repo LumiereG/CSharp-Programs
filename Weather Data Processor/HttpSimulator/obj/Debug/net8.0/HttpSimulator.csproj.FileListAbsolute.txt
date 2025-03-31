@@ -1,0 +1,24 @@
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\bin\Debug\net8.0\HttpSimulator.deps.json
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\bin\Debug\net8.0\HttpSimulator.dll
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\bin\Debug\net8.0\HttpSimulator.pdb
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\obj\Debug\net8.0\HttpSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\obj\Debug\net8.0\HttpSimulator.AssemblyInfoInputs.cache
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\obj\Debug\net8.0\HttpSimulator.AssemblyInfo.cs
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\obj\Debug\net8.0\HttpSimulator.csproj.CoreCompileInputs.cache
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\obj\Debug\net8.0\HttpSimulator.sourcelink.json
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\obj\Debug\net8.0\HttpSimulator.dll
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\obj\Debug\net8.0\refint\HttpSimulator.dll
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\obj\Debug\net8.0\HttpSimulator.pdb
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\obj\Debug\net8.0\ref\HttpSimulator.dll
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\bin\Debug\net8.0\HttpSimulator.deps.json
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\bin\Debug\net8.0\HttpSimulator.dll
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\bin\Debug\net8.0\HttpSimulator.pdb
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\obj\Debug\net8.0\HttpSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\obj\Debug\net8.0\HttpSimulator.AssemblyInfoInputs.cache
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\obj\Debug\net8.0\HttpSimulator.AssemblyInfo.cs
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\obj\Debug\net8.0\HttpSimulator.csproj.CoreCompileInputs.cache
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\obj\Debug\net8.0\HttpSimulator.sourcelink.json
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\obj\Debug\net8.0\HttpSimulator.dll
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\obj\Debug\net8.0\refint\HttpSimulator.dll
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\obj\Debug\net8.0\HttpSimulator.pdb
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\HttpSimulator\obj\Debug\net8.0\ref\HttpSimulator.dll

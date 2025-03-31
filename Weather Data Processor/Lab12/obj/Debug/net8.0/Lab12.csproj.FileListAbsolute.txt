@@ -1,0 +1,38 @@
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\bin\Debug\net8.0\Lab12.exe
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\bin\Debug\net8.0\Lab12.deps.json
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\bin\Debug\net8.0\Lab12.runtimeconfig.json
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\bin\Debug\net8.0\Lab12.dll
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\bin\Debug\net8.0\Lab12.pdb
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\bin\Debug\net8.0\HttpSimulator.dll
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\bin\Debug\net8.0\HttpSimulator.pdb
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\Lab12.csproj.AssemblyReference.cache
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\Lab12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\Lab12.AssemblyInfoInputs.cache
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\Lab12.AssemblyInfo.cs
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\Lab12.csproj.CoreCompileInputs.cache
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\Lab12.sourcelink.json
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\Lab12.csproj.Up2Date
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\Lab12.dll
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\refint\Lab12.dll
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\Lab12.pdb
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\Lab12.genruntimeconfig.cache
+C:\Users\gridi\OneDrive\Рабочий стол\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\ref\Lab12.dll
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\bin\Debug\net8.0\Lab12.exe
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\bin\Debug\net8.0\Lab12.deps.json
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\bin\Debug\net8.0\Lab12.runtimeconfig.json
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\bin\Debug\net8.0\Lab12.dll
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\bin\Debug\net8.0\Lab12.pdb
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\bin\Debug\net8.0\HttpSimulator.dll
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\bin\Debug\net8.0\HttpSimulator.pdb
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\Lab12.csproj.AssemblyReference.cache
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\Lab12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\Lab12.AssemblyInfoInputs.cache
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\Lab12.AssemblyInfo.cs
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\Lab12.csproj.CoreCompileInputs.cache
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\Lab12.sourcelink.json
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\Lab12.csproj.Up2Date
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\Lab12.dll
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\refint\Lab12.dll
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\Lab12.pdb
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\Lab12.genruntimeconfig.cache
+D:\Pulpit\3 sem\Programming\Lab\P3Z_24Z_Lab12\Lab12\obj\Debug\net8.0\ref\Lab12.dll
